@@ -1,0 +1,7 @@
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\bin\Debug\Assignment Test.exe.config
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\bin\Debug\Assignment Test.exe
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\bin\Debug\Assignment Test.pdb
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\obj\Debug\Assignment Test.csprojAssemblyReference.cache
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\obj\Debug\Assignment Test.csproj.CoreCompileInputs.cache
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\obj\Debug\Assignment Test.exe
+D:\Skool is no Kool\Programming 2\Week 1 Assignments\Assignment Test\obj\Debug\Assignment Test.pdb
