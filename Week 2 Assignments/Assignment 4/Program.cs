@@ -103,8 +103,8 @@ namespace Assignment_4
                         {
                             PosRow = Knight.row + Moves[rowMoves];
                             PosCol = Knight.column + Moves[colMoves];
-                            Console.WriteLine(PosRow + " " + PosCol);
-                            Console.WriteLine();
+                            //Console.WriteLine(PosRow + " " + PosCol);
+                            //Console.WriteLine();
                             Chessboard[PosRow, PosCol] = 2;
                         }
                     }

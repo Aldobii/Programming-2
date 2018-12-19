@@ -5,3 +5,10 @@ D:\Skool is no Kool\Programming 2\Week 2 Assignments\Assignment 4\obj\Debug\Assi
 D:\Skool is no Kool\Programming 2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
 D:\Skool is no Kool\Programming 2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.exe
 D:\Skool is no Kool\Programming 2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.pdb
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\bin\Debug\Assignment 4.exe.config
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\bin\Debug\Assignment 4.exe
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\bin\Debug\Assignment 4.pdb
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.csprojAssemblyReference.cache
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.exe
+D:\Skool is no Kool\Programming-2\Week 2 Assignments\Assignment 4\obj\Debug\Assignment 4.pdb

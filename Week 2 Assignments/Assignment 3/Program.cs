@@ -107,7 +107,7 @@ namespace Assignment_3
                         candyCounter = 1;
                     }
                     
-                    if (candyCounter >= 3)
+                    if (candyCounter >= 4)
                     {
                         return true;
                     }
@@ -139,7 +139,7 @@ namespace Assignment_3
                         candyCounter = 1;
                     }
 
-                    if (candyCounter >= 3)
+                    if (candyCounter >= 4)
                     {
                         return true;
                     }
