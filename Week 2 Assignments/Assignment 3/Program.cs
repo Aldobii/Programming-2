@@ -91,14 +91,13 @@ namespace Assignment_3
 
         bool ScoreRowPresent(RegularCandies[,] PlayingField)
         {
-            int candyCounter = 1;
-            int colCounter = 0;
-
             for (int row = 0; row < PlayingField.GetLength(0); row++)
             {
+                int candyCounter = 1;
+
                 for (int col = 1; col < PlayingField.GetLength(1); col++)
                 {
-                    if ((int)PlayingField[row, col] == (int)PlayingField[row, colCounter])
+                    if ((int)PlayingField[row, col] == (int)PlayingField[row, col - 1])
                     {
                         candyCounter++;
                     }
@@ -111,11 +110,7 @@ namespace Assignment_3
                     {
                         return true;
                     }
-
-                    colCounter++;
                 }
-
-                colCounter = 0;
             }
 
             return false;

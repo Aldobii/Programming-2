@@ -91,6 +91,7 @@ namespace Assignment_2
                     {
                         numPosition.row = row;
                         numPosition.column = col;
+                        return numPosition;
                     }
                 }
             }
@@ -102,14 +103,15 @@ namespace Assignment_2
         {
             Position numPosition = new Position();
             
-            for (int row = Matrix.GetLength(0) - 1; row > 0; row--)
+            for (int row = Matrix.GetLength(0) - 1; row >= 0; row--)
             {
-                for (int col = Matrix.GetLength(1) - 1; col > 0; col--)
+                for (int col = Matrix.GetLength(1) - 1; col >= 0; col--)
                 {
                     if (number == Matrix[row, col])
                     {
                         numPosition.row = row;
                         numPosition.column = col;
+                        return numPosition;
                     }
                 }
             }
